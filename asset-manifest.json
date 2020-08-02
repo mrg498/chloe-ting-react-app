@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chloe-ting-react-app/static/css/main.a92a83b3.chunk.css",
+    "main.js": "/chloe-ting-react-app/static/js/main.eec0bed9.chunk.js",
+    "main.js.map": "/chloe-ting-react-app/static/js/main.eec0bed9.chunk.js.map",
+    "runtime-main.js": "/chloe-ting-react-app/static/js/runtime-main.7fae9d5e.js",
+    "runtime-main.js.map": "/chloe-ting-react-app/static/js/runtime-main.7fae9d5e.js.map",
+    "static/js/2.942cec7f.chunk.js": "/chloe-ting-react-app/static/js/2.942cec7f.chunk.js",
+    "static/js/2.942cec7f.chunk.js.map": "/chloe-ting-react-app/static/js/2.942cec7f.chunk.js.map",
+    "index.html": "/chloe-ting-react-app/index.html",
+    "precache-manifest.35f1e8a228e501c84079c93b9dfcbc03.js": "/chloe-ting-react-app/precache-manifest.35f1e8a228e501c84079c93b9dfcbc03.js",
+    "service-worker.js": "/chloe-ting-react-app/service-worker.js",
+    "static/css/main.a92a83b3.chunk.css.map": "/chloe-ting-react-app/static/css/main.a92a83b3.chunk.css.map",
+    "static/js/2.942cec7f.chunk.js.LICENSE.txt": "/chloe-ting-react-app/static/js/2.942cec7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fae9d5e.js",
+    "static/js/2.942cec7f.chunk.js",
+    "static/css/main.a92a83b3.chunk.css",
+    "static/js/main.eec0bed9.chunk.js"
+  ]
+}
