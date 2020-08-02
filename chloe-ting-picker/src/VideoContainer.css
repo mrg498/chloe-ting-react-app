@@ -1,0 +1,111 @@
+.mostViewed {
+	background-color: rgb(255, 144, 144);
+	padding: 2rem;
+	color: white;
+	width: 95%;
+	margin: auto;
+	-webkit-box-shadow: 7px 6px 31px 0px rgba(0, 0, 0, 0.75);
+	-moz-box-shadow: 7px 6px 31px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 7px 6px 31px 0px rgba(0, 0, 0, 0.75);
+    border-radius: 8px;
+}
+
+.mostViewed-title {
+    text-shadow: 2px 2px 0px black;
+    padding-bottom: 1.5rem;
+}
+
+.or{
+    padding: 3rem 0;
+    font-size: 3rem;
+    text-shadow: 2px 2px 0px #eeeeee, 5px 4px 0px rgba(0,0,0,0.15);
+}
+
+.buildWorkout {
+	background: rgb(75, 230, 255);
+    background: linear-gradient(128deg, rgba(75, 230, 255, 1) 49%, rgba(252, 185, 246, 1) 49%);
+    
+}
+
+.buildWorkout-text {
+    font-size: 4rem;
+    text-shadow: 2px 2px 0px #eeeeee, 5px 4px 0px rgba(0,0,0,0.15);
+}
+
+.workoutPlanContainer{
+    background-color: rgb(255, 144, 144);
+    -webkit-box-shadow: 7px 6px 31px 0px rgba(0, 0, 0, 0.75);
+	-moz-box-shadow: 7px 6px 31px 0px rgba(0, 0, 0, 0.75);
+	box-shadow: 7px 6px 31px 0px rgba(0, 0, 0, 0.75);
+    width: 95%;
+    margin: auto;
+    padding: 2rem;
+    color: white;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 3rem 0;
+    padding: 0;
+    margin: 1rem 0;
+}
+
+.buttons-title{
+
+}
+
+.button{
+    
+    display: inline-block;
+    min-width: 5rem;
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 12px;
+    cursor: pointer;
+    color: rgb(75, 230, 255);
+    background-color: rgb(187, 95, 179);
+    border: 3px solid white;
+    font-size: 2rem;
+    font-weight: 700;
+    transition: color 400ms, background-color 400ms;
+}
+
+.button:hover, .button:active {
+    background-color: rgb(75, 230, 255);
+    color: rgb(187, 95, 179);
+}
+
+.button:focus{
+    outline: none;
+}
+
+.customVideos{
+    margin: 1rem 0;
+    padding:0;
+    background-color: rgb(255, 144, 144);
+    -webkit-box-shadow: 7px 6px 31px 0px rgba(0, 0, 0, 0.75);
+	-moz-box-shadow: 7px 6px 31px 0px rgba(0, 0, 0, 0.75);
+	box-shadow: 7px 6px 31px 0px rgba(0, 0, 0, 0.75);
+}
+
+iframe {
+    margin: 0.5rem;
+}
+
+
+@media (min-width: 768px) { 
+    .button{
+        min-width: 20rem;
+    }
+    .customVideos{
+        margin: 2rem;
+        padding:2rem;
+    }
+
+}

@@ -1,0 +1,18 @@
+*{
+  box-sizing: border-box;
+}
+
+.App{
+  text-align: center;
+  background: rgb(252,185,246);
+  background: linear-gradient(128deg, rgba(252,185,246,1) 49%, rgba(75,230,255,1) 49%);
+  padding-bottom: 3rem; 
+}
+
+.App-title {
+  text-shadow: 2px 2px 0px black, 5px 4px 0px rgba(0,0,0,0.15);
+  margin-top: 0;
+  padding-top: 5rem;
+  font-size: 5rem;
+  color: rgb(255, 255, 255);
+}
