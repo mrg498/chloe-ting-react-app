@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/chloe-ting-react-app/precache-manifest.35f1e8a228e501c84079c93b9dfcbc03.js"
+  "/chloe-ting-react-app/precache-manifest.14af58517295549d7fbb4a5628709e38.js"
 );
 
 self.addEventListener('message', (event) => {

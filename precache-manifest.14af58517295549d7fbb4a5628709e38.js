@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a40446a2a3938775f204d5c90aff10a1",
+    "revision": "7c8d356943814fbd9766dc0e3932979b",
     "url": "/chloe-ting-react-app/index.html"
   },
   {
